@@ -13,6 +13,8 @@ frontend/build/
 # Application artifacts
 backend/uploads/*
 !backend/uploads/.gitkeep
+backend/charts/*
+backend/*.db
 *.log
 
 # OS metadata
