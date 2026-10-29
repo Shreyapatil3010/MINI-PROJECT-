@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Node.js
+node_modules/
+frontend/build/
+
+# Application artifacts
+backend/uploads/*
+!backend/uploads/.gitkeep
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
